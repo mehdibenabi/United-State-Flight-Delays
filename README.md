@@ -7,7 +7,7 @@ A comprehensive machine learning project that predicts flight delays using PySpa
 This project implements a **streaming machine learning pipeline** using PySpark to predict whether a flight will be delayed (≥15 minutes arrival delay). The pipeline processes flight data in batches (chunks) to mimic real time streaming scenarios, trains 5 different classifiers, and evaluates their performance across multiple metrics.
 
 ### Key Features
-- Real world US flight delay dataset available in Kaggle: ([text](https://www.kaggle.com/datasets/hrishitpatil/flight-data-2024)) 
+- Real world US flight delay dataset available in Kaggle: ([Dataset](https://www.kaggle.com/datasets/hrishitpatil/flight-data-2024)) 
 - Streaming data pipeline using PySpark Structured Streaming
 - 5 Machine Learning classifiers trained and evaluated
 - Comprehensive model comparison across multiple metrics
