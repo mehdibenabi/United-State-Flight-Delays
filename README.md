@@ -277,14 +277,12 @@ This project demonstrates:
 
 ---
 
-## License
+## Author
 
-This project is open source and available for educational and research purposes.
+Mehdi Benabi
 
 ---
 
 ## Contact
 
 For questions or suggestions about this project, feel free to reach out!
-
-**Published**: May 2026
